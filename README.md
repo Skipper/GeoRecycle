@@ -1,8 +1,10 @@
 ## Description
 
-Geo Recycle is an application designed with a friendly graphical interface, developed in Android Studio with a **Java** programming language, implementing **Material Design** standards, **Firebase** database, **Google Maps** and **Google Directions API**
+Geo Recycle is an application designed with a friendly graphical interface in **Adobe XD**, developed in Android Studio with **Java** programming language, implementing **Material Design** standards, **Firebase** database, **Google Maps** and **Google Address API.**
 
-The application seeks to improve the efficiency of the garbage collection system, provide information for users, monitor and manage the information on the filling of garbage containers. It has user registration system functions, driver registration, container registration, visualization of registered containers with their respective information, calculation of distance between points, drawing of possible routes according to its location and the percentage of filling of the garbage containers, etc. That they are validated for greater security control and guarantee their proper functioning.
+The application seeks to improve the efficiency of the garbage collection system through the interaction of a system based on **IoT** which is what allows users to provide information, monitor and manage information on filling, temperature and humidity of garbage containers by means of simulated sensors.
+
+It has user registration system functions, driver registration, container registration, visualization of registered containers with their respective information, calculation of distance between points and drawing of possible routes according to their location. That they are validated for greater security control and to guarantee their correct operation.
 
 **Supports and functionalities:**
 
